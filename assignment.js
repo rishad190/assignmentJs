@@ -1,3 +1,6 @@
+//https://github.com/rishad190/assignmentJs
+
+
 function kilometerToMeter(kilometer){
 
     if (kilometer < 0){
@@ -29,6 +32,8 @@ function budgetCalculator(watch,phone,laptop){
 
     return totalPrice;
 }
+
+
 
 function hotelCost(day){
     var cost=0;
@@ -62,6 +67,8 @@ function hotelCost(day){
 
     return cost ;
 }
+
+
 
 function megaFriend(friends){
     var max = [""];
